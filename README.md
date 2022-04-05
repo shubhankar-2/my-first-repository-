@@ -1,4 +1,4 @@
 # my-first-repository-
 This is my first time on git while learning it . 
 
-This file was just modified locally . This is the file were everything is stored
+This file was changed after editing in git and in locall system.
